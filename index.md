@@ -10,3 +10,4 @@ Spiff is one of Calvin's many alter egos, imaginary personae who have solo adven
 * Fearless
 * Brave
 
+> Another day, another mind-boggling adventure!
