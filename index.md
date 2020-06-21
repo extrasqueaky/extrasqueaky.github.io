@@ -10,6 +10,9 @@ Spiff is one of Calvin's many alter egos, imaginary personae who have solo adven
 * Fearless
 * Brave
 
+## Monster Quote
 > Another day, another mind-boggling adventure!
 
+## Marvelous Image
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Neil_Armstrong_pose.jpg"/>
+Not Spaceman Spiff! Due to copyright reasons. 
