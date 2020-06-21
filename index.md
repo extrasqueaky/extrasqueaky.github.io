@@ -11,3 +11,5 @@ Spiff is one of Calvin's many alter egos, imaginary personae who have solo adven
 * Brave
 
 > Another day, another mind-boggling adventure!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Neil_Armstrong_pose.jpg"/>
